@@ -31,6 +31,7 @@ kotlin {
 
 dependencies{
     implementation "io.reactivex.rxjava2:rxjava:2.2.19"
+    ferna
 }
 
 // Use the following Gradle tasks to run your application:
